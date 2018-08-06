@@ -1,0 +1,39 @@
+body {
+	background: #141414;
+	color: #f0f0f0;
+	font: 16px/24px Helvetica, Arial, sans-serif;
+}
+main {
+	background: #333;
+	margin: 0 auto;
+	max-width: 1000px;
+	min-width: 600px;
+	padding: 50px 20px 20px 20px;
+}
+h1 {
+	font-size: 2rem;
+	font-weight: 700;
+	line-height: 2rem;
+	margin-bottom: 20px;
+	text-align: center;
+}
+figure {
+	margin-bottom: 30px;
+}
+img {
+	border: 3px solid #fff;
+	vertical-align: top;
+	width: 100%;
+}
+figure img {
+	border-width: 15px;
+	margin-bottom: 10px;
+}
+ul {
+	margin: 0 -15px;
+}
+li {
+	display: inline-block;
+	padding: 0 15px;
+	width: 25%;
+}
